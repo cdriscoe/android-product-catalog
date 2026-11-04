@@ -1,0 +1,11 @@
+# Generated output and machine-specific settings
+.gradle/
+.idea/
+**/build/
+local.properties
+*.iml
+*.apk
+*.aab
+*.log
+.DS_Store
+captures/
